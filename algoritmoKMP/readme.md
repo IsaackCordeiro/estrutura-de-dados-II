@@ -136,5 +136,5 @@ int buscaKMP(char *texto, char *padrao){
 
 
 ### Fontes
-[Teoria sobre busca KMP](https://www.youtube.com/watch?v=V5-7GzOfADQ)
+[Teoria sobre busca KMP](https://www.youtube.com/watch?v=V5-7GzOfADQ) <br>
 [Implementação do algoritmo de busca KMP](https://youtu.be/d2oTD98Aj6Q)
