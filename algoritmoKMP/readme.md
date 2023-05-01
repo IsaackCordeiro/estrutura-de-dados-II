@@ -24,7 +24,7 @@ Exemplo:
 
 **ABC**D**ABC**
 
-Prefixos: A, AB, <u>ABC</u>, ABCD, ABCDA...
+Prefixos: A, AB, <u>ABC</u>, ABCD, ABCDA... <br>
 Sufixos: C, BC, <u>ABC</u>, DABC, CDABC...
 
 ABC é o maior prefixo que também é sufixo.
